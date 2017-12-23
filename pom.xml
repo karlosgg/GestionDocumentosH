@@ -95,14 +95,7 @@
             <version>8.0.8-dmr</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.wildfly/wildfly-feature-pack -->
-        <dependency>
-            <groupId>org.wildfly</groupId>
-            <artifactId>wildfly-feature-pack</artifactId>
-            <version>11.0.0.Final</version>
-            <type>pom</type>
-            <scope>provided</scope>
-        </dependency>
+        
     </dependencies>
 
     <build>
