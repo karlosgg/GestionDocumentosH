@@ -88,7 +88,7 @@
 						<configuration>
 							<artifactItems>
 								<artifactItem>
-									<groupId>com.github.jsimone</groupId>
+									<groupId>com.jc</groupId>
 									<artifactId>webapp-runner</artifactId>
 									<version>7.0.57.2</version>
 									<destFileName>webapp-runner.jar</destFileName>
